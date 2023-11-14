@@ -1,0 +1,15 @@
+{
+    "name": "mern-backend",
+    "version": "1.0.0",
+    "description": "Backend for a MERN stack application",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "latest",
+        "mongoose": "latest",
+        "dotenv": "latest",
+        "cors": "latest"
+    }
+}
